@@ -1,0 +1,12 @@
+body{
+    margin:0;
+    font-family: -apple-system, BlinkMacSystemFont,segeo ui, 
+    Roboto, helvetica neue, Arial, non sans, snas-serif, 
+    apple color emoji, segeo ui emoji, segeo ui symbol, noto color emoji;
+}
+
+.container {
+    display:flex;
+    margin: 0 auto;
+    max-width: 800px
+}
